@@ -82,8 +82,4 @@ Rithvik Sighakolli [Github](https://github.com/rithviksighakolli)
 
 [Prescripto Admin/Doctor Panel](https://prescripto-hospital-management-system-dmls.onrender.com)
 
-# Contact
-For any questions or feedback, please contact [Rithvik Sighakolli](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGLdXhmkgwVNdVxlKMVGdjhjxJTzgSsdkdVZdtWgrnhHsRXcxcMlSVxjWjwVvNTQxZDgHxM)
 
-# License
-This project is licensed under the MIT License.
